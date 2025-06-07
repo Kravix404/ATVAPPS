@@ -1,7 +1,7 @@
 # ATVAPPS
 Привет! Тут будут приложения для ATV чтобы можно было удобнее пользоваться приставкой
 
-Приложения Которые будут: LampaATV; LAzyMedia ATV; Rutube ATV; SmartTubeATV(Замена ютуб также нужен VPN); YoutubeATV (также нужен VPN); Браузер; VKVIDEOATV; СмотримATV
+Приложения Которые будут: LampaATV; LAzyMedia ATV; Rutube ATV; SmartTubeATV(Замена ютуб также нужен VPN); YoutubeATV (также нужен VPN); Браузер; VKVIDEOATV; СмотримATV; ByDPI(для Youtube;SmartTube).
 
 
 
@@ -9,5 +9,9 @@
 
 
 Для настройки LampaATV посмотрите эту статью: https://telegra.ph/Kak-nastroit-LampaUnCensored-06-07
+
+
+Для настройки ByDPI посмотрите эту статью: https://telegra.ph/Kak-nastroit-ByDpi-06-07
+
 
 Чтобы связаться мне с вами напишите мне в Тг(Телеграмм) t.me/Kravix404
